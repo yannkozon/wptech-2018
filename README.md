@@ -27,6 +27,6 @@ Après-midi
 * [WordPress, du bricolage au déploiement continu !](https://speakerdeck.com/shulard/wordpress-du-bricolage-au-deploiement-continue) - Stéphane Hulard
 * Comment créer un plugin WordPress qui utilise des API REST externes pour enrichir les contenus d’un site web - Denis Lamotte
 * [Développeurs, passez d’une donnée brute à une donnée utilisateur](https://www.slideshare.net/ThomasDENEULIN/passez-dune-donne-brute-une-donne-utilisateur) - Thomas Deunelin
-* Construire une PWA connectée à WordPress - Benjamin Lupu et Mathieu Le Roi
+* [Construire une PWA connectée à WordPress](https://www.slideshare.net/blupu/construire-une-pwa-connecte-wordpress) - Benjamin Lupu et Mathieu Le Roi
 * Make (et MakeFile) dans le cadre de WordPress : une révolution ? - Guillaume Richard
 * WordPress à l’heure des applications cloud native Ou comment (bien) déployer WordPress dans un environnement cloud - Yves-Marie Saout
