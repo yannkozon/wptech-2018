@@ -16,8 +16,7 @@ Après-midi
 
 ## Salle blue
 Matin
-
-* [Comprendre le cœur et y contribuer – objectif : devenir un professionnel WordPress accompli !](https://speakerdeck.com/audrasjb/comprendre-le-coeur-wordpress-et-y-contribuer-objectif-devenir-un-professionnel-wordpress-accompli) - Jean-Baptiste Audras
+* [Comprendre le cœur et y contribuer – objectif : devenir un professionnel WordPress accompli !](https://jeanbaptisteaudras.com/portfolio/conference-au-wp-tech-2018-a-lyon-comprendre-le-coeur-wordpress-et-y-contribuer/) - Jean-Baptiste Audras
 * [WordPress comme une dépendance](https://docs.google.com/presentation/d/1x4IG4VZDbc8A1B1kKqX8wiWiSb11R1jESr0PqXZB2us/edit) - Romain Etchegoyhen
 * [Concevoir une place de marché avec WooCommerce](https://wpchannel.com/woocommerce/tutoriels-woocommerce/concevoir-marketplace-woocommerce/) - Aurélien Denis
 * [WordPress, les vecteurs d’attaques d’un hacker](https://www.slideshare.net/JulienGadanho1/wordpress-les-vecteurs-dattaques-dun-hacker-wptech-2018) - Julien Gadanho
