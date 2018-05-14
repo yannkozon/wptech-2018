@@ -5,7 +5,7 @@ L'ensemble du programme avec description se trouve ici : https://2018.wptech.fr/
 Matin
 * [Gutenberg sous le capot: modules réutilisables](https://www.slideshare.net/riadbenguella/gutenberg-sous-le-capot-modules-rutilisables) - Riad Benguella
 * [Comprendre et bien mesurer le temps de chargement de site WordPress](http://slides.com/jonathanbuttigieg/comprendre-et-bien-mesurer-le-temps-de-chargement-de-son-site-wordpress) - Jonathan Buttigieg
-* [Un plan de tests automatisés pour votre front-end](https://github.com/ffoodd/Talks/tree/master/wp-tech.2018) - Gaël Poupard
+* [Un plan de tests automatisés pour votre front-end](https://www.ffoodd.fr/wp-tech.2018/) + [les sources sur GitHub](https://github.com/ffoodd/Talks/tree/bfdad0f678daf814d901c5499df395433a594c64/wp-tech.2018) - Gaël Poupard
 * [Recherche dans WP, native, plugins, serveur Elasticsearch, SAAS, on vous explique tout !](https://speakerdeck.com/herewithme/recherche-dans-wp-native-plugins-serveur-elasticsearch-saas-on-vous-explique-tout) - Amaury Balmer
 
 Après-midi
